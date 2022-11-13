@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulrafay414
+- 👋 Hi, I’m Abdul Rafay
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently studying Computer Science
 - 📫 How to reach me abdulrafay2393789@gmail.com
